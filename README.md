@@ -22,4 +22,4 @@
 </p>
 
 ## 찡구샵
-[![찡구](banner.png)](https://marpple.shop/kr/jjinggu)
+[![찡구](banner.png)](https://smartstore.naver.com/jjinggu)
